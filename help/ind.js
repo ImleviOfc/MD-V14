@@ -80,7 +80,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
     return `
 *Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot Beta :*
+*📚 List-Menu VENZ-BOT :*
 
 🤖 *INFO*
 ├ ${prefix}owner
@@ -222,8 +222,7 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 exports.source = (prefix) =>{
 return`*── 「 SOURCE 」 ──*
 
-Original : https://github.com/rashidsiregar28/chikabot
-Sc Recode : https://github.com/zeeoneofc/Alphabot-Md
+MAU SC ENAK AJA LU NGACA DONG KNTL 🗿
 `
 }
 exports.tos = (ownerNumber, prefix) => {
@@ -232,7 +231,7 @@ exports.tos = (ownerNumber, prefix) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 0887435047326 (OVO/Dana/GoPay)
+🏧 085172446692 (OVO/Dana/Pulsa)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
